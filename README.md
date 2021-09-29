@@ -10,6 +10,8 @@ Run the following commands to successfully install and run the code.
 
 2. ```conda env create --file environment.yml```
 
+3. ```conda activate snapcommerce```
+
 NOTE: Step 2 is not necessary but is recommended if your system has conda.
 
 After that you can smoothly run ```answers.py``` which contains answers to all the coding questions
