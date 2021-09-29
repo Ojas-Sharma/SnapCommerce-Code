@@ -6,7 +6,7 @@ The code above is the answer of "Data Engineer Co-op Case Study" for SnapCommerc
 
 Run the following commands to successfully install and run the code.
 
-1. ```https://github.com/Ojas-Sharma/SnapCommerce-Code.git```
+1. ```git clone https://github.com/Ojas-Sharma/SnapCommerce-Code.git```
 
 2. ```conda env create --file environment.yml```
 
